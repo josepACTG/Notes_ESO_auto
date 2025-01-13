@@ -1,0 +1,2 @@
+
+summary(beaver1)
