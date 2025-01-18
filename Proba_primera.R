@@ -12,3 +12,4 @@ summary(cars)
 
 plot(cars$speed ~ cars$dist)
 
+#Aixo és una prova per a veure que tal funciona el GiT!
