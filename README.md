@@ -16,3 +16,14 @@ Automatització de l'anàlisi estadístic i graficació de les notes de les aval
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/josepACTG/Notes_ESO_auto/blob/main/www/departament_educacio.jpg" alt="Departament Educació" width="150"/>
 </p>
+
+
+
+
+<table>
+  <tr>
+    <td align="center"><img src="https://github.com/josepACTG/Notes_ESO_auto/blob/main/www/Icon.png" alt="Icon" width="150"/></td>
+    <td align="center"><h2>Automatització ESO</h2></td>
+    <td align="center"><img src="https://github.com/josepACTG/Notes_ESO_auto/blob/main/www/departament_educacio.jpg" alt="Departament Educació" width="150"/></td>
+  </tr>
+</table>
