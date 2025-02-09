@@ -10,6 +10,10 @@ Automatització de l'anàlisi estadístic i graficació de les notes de les aval
 
 
 
+
+
+
+
 <p align="right">
-  <img src="https://github.com/josepACTG/Notes_ESO_auto/blob/main/www/departament_educacio.jpg" width="300"/>
+  <img src="https://github.com/josepACTG/Notes_ESO_auto/blob/main/www/departament_educacio.jpg" width="220"/>
 </p>
