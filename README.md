@@ -15,7 +15,7 @@ Puja les notes trimestrals dels alumnes, i obtingues diferents gràfics per a ve
 
 
 
-![](https://github.com/josepACTG/Notes_ESO_auto/blob/main/www/a1.gif)
+![](https://github.com/josepACTG/Notes_ESO_auto/blob/main/www/github_imgs/a1.gif)
 
 
 
