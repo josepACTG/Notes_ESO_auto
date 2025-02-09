@@ -4,15 +4,21 @@
 
 
 # Notes_ESO_auto
-Automatització de l'anàlisi estadístic i graficació de les notes de les avaluacións en l'ESO.
+Automatització de la graficació de les notes d'avaluacións en l'ESO.
+
+> En desenvolupament: Aquest programa encara no és pujat a la web.
+
+
+App de Shiny (R studio).
+ 
+Puja les notes trimestrals dels alumnes, i obtingues diferents gràfics per a veure bé les notes dels alumnes.
+
+
 
 ![](https://github.com/josepACTG/Notes_ESO_auto/blob/main/www/a1.gif)
 
 
-App de Shiny (R studio) per a automatitzar l'anàlisi de notes d'ESO en línea.
-Puja les notes trimestrals dels alumnes, i 
 
-> En desenvolupament: Aquest programa encara no és pujat a la web.
 
 
 Exemple tipologia de dades:
