@@ -1,5 +1,6 @@
-![](https://github.com/josepACTG/Notes_ESO_auto/blob/main/www/Icon.png | width=100)
-![](https://github.com/josepACTG/Notes_ESO_auto/blob/main/www/departament_educacio.jpg | width=300)
+![](https://github.com/josepACTG/Notes_ESO_auto/blob/main/www/Icon.png)
+
+![](https://github.com/josepACTG/Notes_ESO_auto/blob/main/www/departament_educacio.jpg)
 
 
 # Notes_ESO_auto
