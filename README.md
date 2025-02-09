@@ -1,6 +1,9 @@
-![](https://github.com/josepACTG/Notes_ESO_auto/blob/main/www/Icon.png)
-
-![](https://github.com/josepACTG/Notes_ESO_auto/blob/main/www/departament_educacio.jpg)
+<p align="left">
+  <img src="https://github.com/josepACTG/Notes_ESO_auto/blob/main/www/Icon.png" width="100"/>
+</p>
+<p align="right">
+  <img src="https://github.com/josepACTG/Notes_ESO_auto/blob/main/www/departament_educacio.jpg" width="100"/>
+</p>
 
 
 # Notes_ESO_auto
