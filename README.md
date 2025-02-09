@@ -1,9 +1,6 @@
 <p align="left">
   <img src="https://github.com/josepACTG/Notes_ESO_auto/blob/main/www/Icon.png" width="100"/>
 </p>
-<p align="right">
-  <img src="https://github.com/josepACTG/Notes_ESO_auto/blob/main/www/departament_educacio.jpg" width="100"/>
-</p>
 
 
 # Notes_ESO_auto
@@ -11,3 +8,8 @@ Automatització de l'anàlisi estadístic i graficació de les notes de les aval
 
 ![](https://github.com/josepACTG/Notes_ESO_auto/blob/main/www/a1.gif)
 
+
+
+<p align="right">
+  <img src="https://github.com/josepACTG/Notes_ESO_auto/blob/main/www/departament_educacio.jpg" width="300"/>
+</p>
