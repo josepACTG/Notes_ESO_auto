@@ -9,9 +9,12 @@ Automatització de l'anàlisi estadístic i graficació de les notes de les aval
 ![](https://github.com/josepACTG/Notes_ESO_auto/blob/main/www/a1.gif)
 
 
+App de Shiny (R studio) per a automatitzar l'anàlisi de notes d'ESO en línea.
+Puja les notes trimestrals dels alumnes, i 
 
+> En desenvolupament: Aquest programa encara no és pujat a la web.
 
-
+Puedes ver el contenido de este archivo de Excel [aquí](https://github.com/josepACTG/Notes_ESO_auto/blob/main/Exemple_notes.xlsx).
 
 
 <p align="right">
