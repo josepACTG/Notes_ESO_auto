@@ -1,4 +1,4 @@
-<p align="left">
+<p align="center">
   <img src="https://github.com/josepACTG/Notes_ESO_auto/blob/main/www/Icon.png" width="100"/>
 </p>
 
