@@ -16,13 +16,14 @@ Puja les notes trimestrals dels alumnes, i
 
 
 Exemple tipologia de dades:
-| Personatge | Català | Castellà | Anglès | Tecnologia |
-|------------|--------|----------|--------|------------|
-| Goku       | AN     | AE       | AE     | AE         |
-| Gohan      | AN     | AE       | AE     | AN         |
-| Vegeta     | AS     | AS       | AS     | AS         |
-| Piccolo    | NA     | AS       | NA     | NA         |
-| Krillin    | NA     | NA       | NA     | AS         |
+| Personatge | Català | Castellà | Anglès | Tecnologia | ... |
+|------------|--------|----------|--------|------------|-----|
+| Goku       | AN     | AE       | AE     | AE         | ... |
+| Gohan      | AN     | AE       | AE     | AN         | ... |
+| Vegeta     | AS     | AS       | AS     | AS         | ... |
+| Piccolo    | NA     | AS       | NA     | NA         | ... |
+| Krillin    | NA     | NA       | NA     | AS         | ... |
+| ...        | ...    | ...      | ...    | ...        | ... |
 
 
 
