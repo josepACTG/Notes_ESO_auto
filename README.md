@@ -10,7 +10,8 @@ Automatització de la graficació de les notes d'avaluacións en l'ESO.
 
 
 
-App de Shiny (R studio). ![RStudio Logo](https://bookdown.org/andersson_vargas/aprendiendo_r_studio_-_avm/Imagenes/RStudio-Logo-Flat.png =20x20)
+App de Shiny (R studio). 
+<img src="https://bookdown.org/andersson_vargas/aprendiendo_r_studio_-_avm/Imagenes/RStudio-Logo-Flat.png" alt="RStudio Logo" width="20" height="20"/>
 
  
 Puja les notes trimestrals dels alumnes, i obtingues diferents gràfics per a veure bé les notes dels alumnes.
