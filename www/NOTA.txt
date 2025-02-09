@@ -1,0 +1,2 @@
+En aquesta carpeta es guarden els arxius gràfics que Shiny fa servir.
+La carpeta s'ha d'anomenar "www" i és l'unic directori on es poden guardar els arxius gràfics.
