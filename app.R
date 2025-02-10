@@ -2,6 +2,8 @@
 # Aplicació Shiny robusta per a l'anàlisi de notes d'alumnes
 
 
+# Pantera rosa era una serie guay
+
 #____Funcions internes______#
 cargar_paquete <- function(nombre_paquete) {
   
