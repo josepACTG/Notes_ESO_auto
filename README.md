@@ -5,12 +5,27 @@
 
 # Notes_ESO_auto
 > En desenvolupament: Aquest programa encara no és pujat a la web.
-Automatització de la graficació de les notes d'avaluacións en l'ESO.
+Aplicació Shiny robusta per a la graficació automatitzada de notes d'alumnes.
 
+## 📌 Informació tècnica
 
+- **Versió de R:** 4.4.2  
+- **Pujada a la web:** [notesautoeso.shinyapps.io](https://notesautoeso.shinyapps.io/notes_auto_eso/)  
+- **Codi font:** [GitHub Repository](https://github.com/josepACTG/Notes_ESO_auto)  
 
+## 📬 Contacte
 
-App de Shiny (R studio). 
+📧 **Email:** jllobe12@xtec.cat  
+
+## 🤝 Obert a:
+
+- 🛠️ **Col·laboració**  
+- 💡 **Propostes de millora**  
+- 🐞 **Comentari d'errors**  
+
+---
+
+💻 Desenvolupat amb **Shiny** i **R Studio**.  
 <img src="https://bookdown.org/andersson_vargas/aprendiendo_r_studio_-_avm/Imagenes/RStudio-Logo-Flat.png" alt="RStudio Logo" width="50" height="20"/>.  Versió R-4.4.2.
 
  
