@@ -4,7 +4,7 @@
 
 
 # Notes_ESO_auto
-> En desenvolupament: Aquest programa encara no és pujat a la web.
+> En desenvolupament: fase beta. Si veu algún error, informe'n!
 Aplicació Shiny robusta per a la graficació automatitzada de notes d'alumnes.
 
 
