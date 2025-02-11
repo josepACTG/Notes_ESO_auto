@@ -24,9 +24,9 @@ Aplicació Shiny robusta per a la graficació automatitzada de notes d'alumnes.
 
 🤝 Obert a:
 
-- 🛠️ **Col·laboració**  
-- 💡 **Propostes de millora**  
-- 🐞 **Comentari d'errors**  
+- 🛠️ Col·laboració  
+- 💡 Propostes de millora  
+- 🐞 Comentari d'errors 
 
 📧 **Email:** jllobe12@xtec.cat  
 
