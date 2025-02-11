@@ -8,12 +8,13 @@
 Aplicació Shiny robusta per a la graficació automatitzada de notes d'alumnes.
 
 
-<p align="center">
-  <div style="border: 2px solid #000; padding: 20px; display: inline-block;">
-    <span style="font-size: 50px; font-weight: bold;">Web d'ús:</span><br>
-    <a href="https://notesautoeso.shinyapps.io/notes_auto_eso/" target="_blank" style="font-size: 28px; font-weight: bold; text-decoration: none; color: inherit;">Notes Auto ESO</a>
-  </div>
-</p>
+<div align="center">
+  <h1>
+    <a href="https://notesautoeso.shinyapps.io/notes_auto_eso/">
+      Notes Auto ESO (web)
+    </a>
+  </h1>
+</div>
 
 
 
