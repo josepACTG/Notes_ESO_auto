@@ -3,7 +3,7 @@
 </p>
 
 
-> En desenvolupament: fase beta. Si veu algún error, informe'n!
+> En desenvolupament: fase beta. Si veus algún error, informe'n!
 
 Aplicació Shiny robusta per a la graficació automatitzada de notes d'alumnes.
 
