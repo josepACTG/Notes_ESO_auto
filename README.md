@@ -7,10 +7,8 @@
 > En desenvolupament: Aquest programa encara no és pujat a la web.
 Aplicació Shiny robusta per a la graficació automatitzada de notes d'alumnes.
 
-<p style="text-align: center; font-size: 54px;">
-  **Web d'ús:** <a href="https://notesautoeso.shinyapps.io/notes_auto_eso/" target="_blank" style="font-size: 28px; font-weight: bold;">Notes Auto ESO</a>
-</p>
 
+# Web d'ús: [Notes Auto ESO](https://notesautoeso.shinyapps.io/notes_auto_eso/)
 
 💻 Desenvolupat amb **Shiny** i **R Studio**. <img src="https://bookdown.org/andersson_vargas/aprendiendo_r_studio_-_avm/Imagenes/RStudio-Logo-Flat.png" alt="RStudio Logo" width="50" height="20"/>.  Versió R-4.4.2.
 
