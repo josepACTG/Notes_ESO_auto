@@ -7,26 +7,20 @@
 > En desenvolupament: Aquest programa encara no és pujat a la web.
 Aplicació Shiny robusta per a la graficació automatitzada de notes d'alumnes.
 
-## 📌 Informació tècnica
+**Web d'ús:** [notesautoeso.shinyapps.io](https://notesautoeso.shinyapps.io/notes_auto_eso/)  
 
-- **Versió de R:** 4.4.2  
-- **Pujada a la web:** [notesautoeso.shinyapps.io](https://notesautoeso.shinyapps.io/notes_auto_eso/)  
-- **Codi font:** [GitHub Repository](https://github.com/josepACTG/Notes_ESO_auto)  
 
-## 📬 Contacte
+💻 Desenvolupat amb **Shiny** i **R Studio**. <img src="https://bookdown.org/andersson_vargas/aprendiendo_r_studio_-_avm/Imagenes/RStudio-Logo-Flat.png" alt="RStudio Logo" width="50" height="20"/>.  Versió R-4.4.2.
 
-📧 **Email:** jllobe12@xtec.cat  
 
-## 🤝 Obert a:
+🤝 Obert a:
 
 - 🛠️ **Col·laboració**  
 - 💡 **Propostes de millora**  
 - 🐞 **Comentari d'errors**  
 
----
+📧 **Email:** jllobe12@xtec.cat  
 
-💻 Desenvolupat amb **Shiny** i **R Studio**.  
-<img src="https://bookdown.org/andersson_vargas/aprendiendo_r_studio_-_avm/Imagenes/RStudio-Logo-Flat.png" alt="RStudio Logo" width="50" height="20"/>.  Versió R-4.4.2.
 
  
 Puja les notes trimestrals dels alumnes, i obtingues diferents gràfics per a veure bé les notes dels alumnes.
