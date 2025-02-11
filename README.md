@@ -3,7 +3,6 @@
 </p>
 
 
-# Notes_ESO_auto
 > En desenvolupament: fase beta. Si veu algún error, informe'n!
 
 Aplicació Shiny robusta per a la graficació automatitzada de notes d'alumnes.
@@ -22,7 +21,7 @@ Aplicació Shiny robusta per a la graficació automatitzada de notes d'alumnes.
 💻 Desenvolupat amb **Shiny** i **R Studio**. <img src="https://bookdown.org/andersson_vargas/aprendiendo_r_studio_-_avm/Imagenes/RStudio-Logo-Flat.png" alt="RStudio Logo" width="50" height="20"/>.  Versió R-4.4.2.
 
 
-
+---
  
 Puja les notes trimestrals dels alumnes, i obtingues diferents gràfics per a veure bé les notes dels alumnes.
 ![](https://github.com/josepACTG/Notes_ESO_auto/blob/main/www/github_imgs/a3.gif)
@@ -49,13 +48,13 @@ Exemple tipologia de dades:
 | Krillin    | NA     | NA       | NA     | AS         | ... |
 | ...        | ...    | ...      | ...    | ...        | ... |
 
-
+---
 
 Exemple d'utilització:
 ![](https://github.com/josepACTG/Notes_ESO_auto/blob/main/www/github_imgs/a1.gif)
 
 
-
+---
 
 🤝 Obert a:
 
